@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VOID_LIFESTEAL_SMP.aternos.me",
+    "ip": "VOID_LIFESTEAL_SMP.aternos.me:56794",
     "port": 56794,
-    "version": "1.21.1"
+    "version": "1.20.4"
   },
   "position": {
     "enabled": true,
