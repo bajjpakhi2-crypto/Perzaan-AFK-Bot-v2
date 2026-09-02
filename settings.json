@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PHANTOM_BLISS_SMP.aternos.me:51238",
+    "ip": "PHANTOM_BLISS_SMP.aternos.me",
     "port":"51238",
     "version": "1.20.4"
   },
