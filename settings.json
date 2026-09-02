@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YOU24/7",
+    "username": "SenpaiSoull",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "PHANTOM_BLISS_SMP.aternos.me",
-    "port": 51238,
-    "version": "1.20.4"
+    "ip": "example.aternos.me",
+    "port": 75375,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
