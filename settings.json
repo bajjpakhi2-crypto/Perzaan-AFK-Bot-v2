@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PHANTOM_BLISS_SMP.aternos.me",
-    "port":"51238",
+    "ip": "frost_lifesteal_smp.aternos.me:52462",
+    "port":"52462",
     "version": "1.20.4"
   },
   "position": {
